@@ -1,0 +1,13 @@
+export const CREATE_POST='CREATE_POST';
+export const POST_SUCCESS='POST_SUCCESS';
+export const POST_ERROR='POST_ERROR';
+export const REMOVE_REDIRECT='REMOVE_REDIRECT';
+export const GET_POSTS='GET_POSTS';
+export const FETCH_SUCCESS='FETCH_SUCCESS';
+export const  NOT_FETCHED='NOT_FETCHED';
+export const START_LOAD='START_LOAD';
+export const LOADED='LOADED';
+export const DEL_ERROR='DEL_ERROR';
+export const DEL_SUCCESS='DEL_SUCCESS';
+export const DEL_POST='DEL_POST';
+export const SHOW_POST='SHOW_POST';
